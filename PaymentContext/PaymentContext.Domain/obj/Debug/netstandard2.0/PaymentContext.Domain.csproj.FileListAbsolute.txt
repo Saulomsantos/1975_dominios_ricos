@@ -1,0 +1,12 @@
+E:\Works\Cursos\balta.io\2.1975_dominios_ricos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.deps.json
+E:\Works\Cursos\balta.io\2.1975_dominios_ricos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.dll
+E:\Works\Cursos\balta.io\2.1975_dominios_ricos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Domain.pdb
+E:\Works\Cursos\balta.io\2.1975_dominios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csprojAssemblyReference.cache
+E:\Works\Cursos\balta.io\2.1975_dominios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+E:\Works\Cursos\balta.io\2.1975_dominios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+E:\Works\Cursos\balta.io\2.1975_dominios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.AssemblyInfo.cs
+E:\Works\Cursos\balta.io\2.1975_dominios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.dll
+E:\Works\Cursos\balta.io\2.1975_dominios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.pdb
+E:\Works\Cursos\balta.io\2.1975_dominios_ricos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.dll
+E:\Works\Cursos\balta.io\2.1975_dominios_ricos\PaymentContext\PaymentContext.Domain\bin\Debug\netstandard2.0\PaymentContext.Shared.pdb
+E:\Works\Cursos\balta.io\2.1975_dominios_ricos\PaymentContext\PaymentContext.Domain\obj\Debug\netstandard2.0\PaymentContext.Domain.csproj.CopyComplete
