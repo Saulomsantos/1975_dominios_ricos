@@ -1,6 +1,6 @@
 # Modelagem de domínios ricos
 
-Neste curso foi desenvolvida a modelagem de domínios ricos de uma plataforma de pagamentos para exemplificar os conceitos, utilizando também orientação a objetos e os princípios de SOLID e Clean Code.
+Neste curso foi desenvolvida a modelagem de domínios ricos de uma plataforma de pagamentos para exemplificar os conceitos, utilizando também orientação a objetos e os princípios de SOLID, Clean Code, DDD e CQRS.
 
 ## Ambiente
 
