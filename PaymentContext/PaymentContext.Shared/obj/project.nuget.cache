@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2VeDO4IH4s2BInYmdx7Kun001yFET/I5APGENssIOzOShJGrNiLD2f2iLYjkY1xwgEoIlgKwj9dkN+IbrTkDXQ==",
+  "dgSpecHash": "+o45Ntb4heA7GsqsxeQOvgJpqSKOOrQdEoJZkSdibA6Q6F9x/x2/+8uw7eKsVFJZ0GYTmNEX7TQNhoJzcH3p2g==",
   "success": true,
-  "projectFilePath": "E:\\Works\\Cursos\\balta.io\\2.1975_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+  "projectFilePath": "E:\\Works\\Cursos\\balta.io\\2.1975_modelando_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

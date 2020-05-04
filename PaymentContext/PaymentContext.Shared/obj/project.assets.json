@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Works\\Cursos\\balta.io\\2.1975_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+      "projectUniqueName": "E:\\Works\\Cursos\\balta.io\\2.1975_modelando_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
       "projectName": "PaymentContext.Shared",
-      "projectPath": "E:\\Works\\Cursos\\balta.io\\2.1975_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
+      "projectPath": "E:\\Works\\Cursos\\balta.io\\2.1975_modelando_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\PaymentContext.Shared.csproj",
       "packagesPath": "C:\\Users\\saulo\\.nuget\\packages\\",
-      "outputPath": "E:\\Works\\Cursos\\balta.io\\2.1975_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\obj\\",
+      "outputPath": "E:\\Works\\Cursos\\balta.io\\2.1975_modelando_dominios_ricos\\PaymentContext\\PaymentContext.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
