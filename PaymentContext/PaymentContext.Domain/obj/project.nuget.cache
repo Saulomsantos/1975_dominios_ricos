@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "D2s3UyakuAyiZlL4eI96q5eSMXlEySY4FRYeFd//TXHYjJcrSd544rQn3L1ouIZU4UjCrRXyAdNXVE2M0d7oog==",
+  "dgSpecHash": "OYDd8YfjevdWpHNBY1GGkPYMEvnZx1iCniBmaJewh0wWpA9Wogt8f0sGpSfyePRdajKPrPIsDTJ4lX7n+Kt9/g==",
   "success": true,
   "projectFilePath": "E:\\Works\\Cursos\\balta.io\\2.1975_modelando_dominios_ricos\\PaymentContext\\PaymentContext.Domain\\PaymentContext.Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\saulo\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],

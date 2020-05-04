@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jQJbyq8TiEu60x2MnyK17Oci+QNILE7FLuQ4tssyPq06mLYprkAXEe7NTKUc8ZzYX17h/SVuk6kx3P97mBcvrw==",
+  "dgSpecHash": "bSpxeiJ9mglAKtCUAhGnrwWpmSEEz4J7KKCBUINYBdAqdJTwu19cCQMduMwfesZpccjqu9LHv7f7W5MCW5j+5Q==",
   "success": true,
   "projectFilePath": "E:\\Works\\Cursos\\balta.io\\2.1975_modelando_dominios_ricos\\PaymentContext\\PaymentContext.Tests\\PaymentContext.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saulo\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
+    "C:\\Users\\saulo\\.nuget\\packages\\flunt\\1.0.5\\flunt.1.0.5.nupkg.sha512",
     "C:\\Users\\saulo\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\saulo\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
